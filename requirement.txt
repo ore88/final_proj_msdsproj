@@ -3,3 +3,4 @@ sklearn
 requests
 flask
 gunicorn
+black
